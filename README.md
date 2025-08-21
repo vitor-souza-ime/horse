@@ -4,10 +4,6 @@ Este projeto implementa e visualiza uma solução para o **Problema do Tour do C
 
 O **Tour do Cavalo** consiste em mover um cavalo por todas as casas de um tabuleiro de xadrez exatamente uma vez, formando um ciclo ou caminho fechado/aberto.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitor-souza-ime/horse/main/demo.png" alt="Exemplo do Tour do Cavalo" width="500"/>
-</p>
-
 ---
 
 ## 🚀 Execução
